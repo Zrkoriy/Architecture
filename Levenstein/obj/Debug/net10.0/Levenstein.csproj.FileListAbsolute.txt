@@ -1,0 +1,14 @@
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\bin\Debug\net10.0\Levenstein.exe
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\bin\Debug\net10.0\Levenstein.deps.json
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\bin\Debug\net10.0\Levenstein.runtimeconfig.json
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\bin\Debug\net10.0\Levenstein.dll
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\bin\Debug\net10.0\Levenstein.pdb
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.AssemblyInfoInputs.cache
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.AssemblyInfo.cs
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.dll
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\refint\Levenstein.dll
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.pdb
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\Levenstein.genruntimeconfig.cache
+C:\Users\Ruslan\RiderProjects\Levenstein\Levenstein\obj\Debug\net10.0\ref\Levenstein.dll
